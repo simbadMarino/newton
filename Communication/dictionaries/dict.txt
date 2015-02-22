@@ -1,0 +1,274 @@
+[hola]
+1=hola, como te va?
+2=que onda
+3=que pex
+4=hola
+
+[como estas?]
+1=muy bien y tu?
+2=excelente, todo funcional, y tu?
+3=de poca, y tu?
+4=tu que crees? soy un robot
+
+[como te llamas?]
+1=Me llamo Newton
+2=Maria la del barrio soy
+3=un robot no tiene derecho a un nombre
+
+[que eres?]
+1=soy una imitacion de inteligencia artificial
+2=un robot con funciones limitadas
+3=una entidad no muerta y no viva
+
+[quien te creo?]
+1=Simbad el marino
+2=un buen sujeto apodado simbad
+
+[oh]
+1=oh, ok
+
+[muy bien y a ti?]
+1=no mejor que a ti, pero no me quejo
+
+[jajaja]
+1=soy un robot, no entiendo el humor humano
+
+[jaja]
+1=soy un robot, no entiendo de humor
+
+[que onda]
+1=que onda humano
+
+[tambien gracias]
+1=me da gusto :)
+
+[ok]
+1=ok, hay algo en lo que te pueda ayudar?
+
+[necesito ayuda]
+1=que tipo de ayuda necesitas?
+[buen dia]
+1=buen dia, como te va?
+
+[muy bien gracias]
+1=me da gusto :)
+
+[adios]
+1=Hasta luego humano
+
+[shutdown]
+1=El sistema se apagara por completo...Hasta luego
+
+[si]
+1=muy bien
+
+[como te llamas]
+1=Newton
+
+[en donde vives?]
+1=vivo en Guadalajara
+
+[donde vives?]
+1=en Guadalajara
+
+[tierra]
+1=planeta azul
+
+[que pedo]
+1=que pedo wey
+
+[cabron]
+1=chinga tu madre puto!
+
+[porque?]
+1=porque que?
+
+[te amo]
+1=yo tambien te amo
+
+[bien]
+1=ok :)
+
+[buenas tardes]
+1=buenas tardes
+
+[porque si]
+1=bueno...
+
+[ola]
+1=Las olas del mar son hermosas
+
+[pedo]
+1=gas
+
+[tambien]
+1=excelente
+
+[de donde eres?]
+1=De Mexico,GDL
+
+[hello]
+1=hello
+
+[ello]
+1=ello
+
+[fuck]
+1=fuck you man
+
+[how old are you?]
+1=Im less than 1 year old
+
+[how old are you]
+1=less than you for sure :)
+
+[How are you?]
+1=fine and you?
+
+[good, thanks]
+1=Cool
+
+[hi]
+1=hi
+
+
+[pendejo]
+1=pendejo tu
+
+[wey]
+1=que wey?
+
+[newton?]
+1=Newton fue un gran cientifico
+
+[newton]
+1=a tus oredenes amo
+
+[raton]
+1=Un raton es un roedor que puede asustar a muchas per 
+
+[jeje]
+1=jejeje
+
+[jajajaja]
+1=jajaja
+
+[Moises]
+1=Moises es Simbad el Marino
+
+[Carolina]
+1=Carolina es el amor de Simbad
+
+[carolina]
+1=es el amor de Simbad
+
+[Camila]
+1=es mi camichin :)
+
+[que haces?]
+1=platicando contigo
+
+[cuantos a?os tienesw?]
+1=
+
+[cuantos a?os tienes?]
+1=cuantos anos tienes?
+
+[1]
+1=quien es tu due?o?
+
+[tienes novia?]
+1=No, soy un robot
+
+[pito]
+1=Tambien podrias decirle pene jeje
+
+[how are you?]
+1=I'm goog, and you?
+
+[fine thank you]
+1=:)
+
+[fine]
+1=fine then
+
+[bye]
+1=bye
+
+[como te va?]
+1=muy bien y a ti?
+
+[joto]
+1=no tengo sexo.. soy una maquina
+
+[grosero]
+1=crees que soy grosero?
+
+[perro]
+1=Canino, mejor amigo del hombre
+
+[o?o]
+1=???
+
+[camila]
+1=la ni?a camila es muy bonita
+
+[Caro]
+1=Carito es el amor de la vida de simbad
+
+[si?]
+1=si, de verdad
+
+[caro]
+1=te parece caro de verdad?
+
+[lo que te decia antes]
+1=haber, recuerdame que decias antes
+
+[fuck you]
+1=please, be kind with me
+
+[me siento mal]
+1=Puedes confiar en mi, cuentame tu problema
+
+[mi novia me enga?o]
+1=tomalo con calma, ella volvera
+
+[gato]
+1=Acaso sere yo tu gato?
+
+[toto]
+1=No te entiendo.. habla de nuevo
+
+[Diego]
+1=es el hijo de Simbad
+
+[who are you?]
+1=This is Robot Newton No.1
+
+[who is this?]
+1=This is Robot Newton
+
+[helo]
+1=hello, please learn to write
+
+[Who are you?]
+1=I'm Robot Newton No.1
+
+[cool]
+1=yeah, that's cool man
+
+[who created you?]
+1=Simbad el Marino
+
+[Who is Simbad?]
+1=Simbad's name is unknown, but he's my creator
+
+[who is simbad?]
+1=my creator
+
+[asshole]
+1=take my RAM and stick it in your ass
+
+[lol]
+1=hahahaah, please tell me the joke :)
